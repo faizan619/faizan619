@@ -1,16 +1,4 @@
 # 💫 About Me:
-⭕ Hello! My name is <b> Faizan Alam </b> and I am currently pursuing my degree in <b>Bachelor in Computer Science</b> with a focus on <b> web development and UX design </b>. Although I am still a student, I have a strong foundation in MERN development and UX design and I am eager to apply my skills to real-world projects.
-
-⭕ As a MERN developer, I have experience working with MongoDB, Express.js, React, and Node.js. I am also proficient in HTML, CSS, and JavaScript and can use these skills to create responsive and user-friendly web applications.
-
-⭕ In addition to my technical skills, I have a strong understanding of UX design principles and practices. I am skilled in user research, wireframing, prototyping, and user testing, and I am passionate about creating interfaces that are intuitive, visually appealing, and accessible to all users.
-
-⭕ As a student, I have developed excellent time management and organizational skills, and I am able to balance my academic responsibilities with my passion for web development and UX design. I am also a great team player and enjoy collaborating with others to create the best possible product.
-
-⭕ If you are looking for a dedicated and enthusiastic MERN developer and UX designer with a strong foundation in web development and design, then I would love to hear from you. Please don't hesitate to contact me if you have any questions or if you would like to discuss any potential opportunities. Thank you for considering my application!
-
-👯 I’m looking to collaborate on Full Stack Web Development and UX Designing<br>🤝 I’m looking for help with Design System<br>🌱 I’m currently learning React Js<br>💬 Ask me about Website Design and Flutter Development.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Faizan-Alam/100026422456493/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_alam_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-alam-4a7408230) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodoFile) 
