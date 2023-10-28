@@ -1,3 +1,4 @@
+![Cover Photo](https://github.com/faizan619/faizan619/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <body>
     <div align="center">
         <h1>Hi there, I'm Faizan Alam 👋 </h1>
