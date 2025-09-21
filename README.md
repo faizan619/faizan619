@@ -3,7 +3,7 @@
     <div align="center">
         <h1>Hi there, I'm Faizan Alam 👋 </h1>
         </hr>
-        <a href="https://github.com/faizan619"><img src="https://readme-typing-svg.herokuapp.com?lines=PHP+&+Laravel+Developer;React+Developer;React+Native+Enthusiast;&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
+        <a href="https://github.com/faizan619"><img src="https://readme-typing-svg.herokuapp.com?lines=PHP+Laravel+Developer;React+Developer;React+Native+Enthusiast;&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
         <h4>To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success✨</h4>
     </div>
 </body>
