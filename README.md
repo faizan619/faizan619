@@ -9,9 +9,9 @@
 </body>
 
 ## 💫 About Me:
-### I'm a Web Designer, ReactJs Developer, and UI/UX Designer!
-- 🌱 I’m currently expanding my knowledge in Back-end Development.
-- 💎 If you are a Tech boy/girl let's get connected 
+### I'm a PHP( Laravel ) Full Stack Developer and ReactJs Developer!
+- 🌱 I’m currently expanding my knowledge in Back-end Development using PHP(Laravel) and Java(Spring Boot).
+- 💎 If you are a Tech boy/girl, let's get connected 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Faizan-Alam/100026422456493/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_alam_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-alam-4a7408230) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodoFile) 
